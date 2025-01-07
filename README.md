@@ -15,15 +15,15 @@ Program your training with exercises reps and rests.
 
 ![main pic](https://github.com/senpl/Fit-workout-fast/blob/masterRemote/PlayStore/images/default.png)
 
-Your rest timer will count as you wish. It will play sound on end. And next exercise is shown.
+Your rest timer will count as you wish. It will play a sound at the end. The next exercise is shown.
 
 Fast and intuitive gestures.
 
-Success or fail could be logged and be visible on exercise pager.
+Success or fail can be logged and made visible on the exercise pager.
 
-Your streach time could be counted. Play sound on streach end.
+Your stretch time can be counted. It will play a sound at the stretch end.
 
-Application is open source and source code is on github.
+The application is open source, and its source code is available on GitHub.
 
 To suggest improvements or bug report use https://github.com/senpl/Fit-workout-fast/issues
 
